@@ -27,6 +27,7 @@
 - Tauri
 - Rust
 - Deno
+- Go
 
 ## What other skills do I have?
 - MySQL/MariaDB
