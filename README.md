@@ -60,7 +60,7 @@
 </details>
 
 :wrench: **Operating systems**:
-  - Arch Linux (Endeavour OS; Daily driver)
+  - Fedora Linux (Fedora 36 Workstation; Daily driver)
   - Windows 10 (For compilation & testing)
 
 </details>
