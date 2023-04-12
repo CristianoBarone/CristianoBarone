@@ -9,7 +9,8 @@
 ## Skills
 <details><summary>🌐 Web frontend</summary>
 
-  - Javascript
+  - JavaScript
+  - TypeScript
   - CSS
   - HTML
   - React
