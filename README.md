@@ -6,40 +6,92 @@
   </h1>
 </div>
 
-## Languages I know
-- Python
-- Lua
-- Java
-- Javascript (NodeJS too)
-- PHP
-- C++ (and C to some extent)
-- C#
-- Haxe
-- Bash & Windows' Batch
+## Skills
+<details><summary>🌐 Web frontend</summary>
 
-## What can I develop with?
-- Unity
-- Web development (Both in vanilla (CSS,HTML,JS) and with frameworks (React, Angular, Svelte, Vite and Vue))
-- Electron
-- Monogame
+  - Javascript
+  - CSS
+  - HTML
+  - React
+  - Angular
+  - Svelte
+  - Vite
+  - Vue
+  
+</details>
+<details><summary>🌐 Web backend</summary>
 
-## What am I learning? AKA What can I already use but not professionally? 
-- Tauri
-- Rust
-- Deno
-- Go
+  - PHP
+  - NodeJS
+  - Deno
+  - Go
+  
+</details><details><summary>🎛️ System administration</summary>
 
-## What other skills do I have?
-- MySQL/MariaDB
-- MongoDB
-- ReDiS
-- Nginx
-- Linux system administration (Mostly debian servers)
+  - Nginx admin
+  - Linux power user
+  
+</details>
 
-## Language skills
-- 🇬🇧 Cambridge C1
+<details><summary>💻 Low-level programming</summary>
 
-### My computer specs
+  - C
+  - C++
+  - Rust
+  - Assembler x86
+  
+</details>
+
+<details><summary>📖 DB administration</summary>
+
+  - MySQL / MariaDB
+  - MongoDB
+  - ReDiS
+  - SQLite
+  
+</details>
+
+<details><summary>🧩 Object-oriented programming</summary>
+
+  - C#
+  - Java
+  
+</details><details><summary>📜 Scripting</summary>
+
+  - Python
+  - Lua
+  - Haxe
+  - Bash
+  - GScript
+  
+</details><details><summary>🎮 Game development</summary>
+
+  - Monogame (C#)
+  - Unity (C#)
+  - Godot (GScript and C#)
+  - UnrealEngine 5 (UEBlueprint and C++)
+  - HaxeFlixel (Haxe)
+  - GoldSRC and Source (C and C++)
+  - Also capable of creating an engine using Vulkan
+  
+</details><details><summary>🔨 Build tools</summary>
+
+  - Make
+  - CMake
+  - xmake
+  
+</details><details><summary>📦 Packaging tools</summary>
+
+  - Electron (Chromium frontend / NodeJS backend)
+  - Tauri (Native webview frontend / Rust backend)
+  
+</details>
+
+## Certifications
+- 🇬🇧 Cambridge C1 (2022; 189/199)
+- 🇩🇪 Goethe    B1 (Pending)
+
+### Computer specs
 <details>
   <summary>Check my specs</summary>
   
@@ -47,20 +99,20 @@
 
 :brain: **RAM**: 16 GB 2300MHz
 
-:eyes: **GPU**: NVIDIA GeForce GTX 1050 (2 GB VRAM)
+:eyes: **GPU**: Sapphire AMD Radeon 480 (8 GB VRAM)
 
 :floppy_disk: **Disks**:
   <details><summary>Check my disks</summary>
   
-  - Samsung SSD CM87   128 GB -> Linux install   (ext4)
-  - Samsung SSD 860    256 GB -> Windows install (NTFS)
-  - WD HDD WD20EZRX    2   TB -> /home disk       (ext4)
-  - WD HDD WD2002FAEX  2   TB -> Shared disk     (NTFS)
+  - Samsung SSD CM87   128 GB -> (ext4) Linux install
+  - Samsung SSD 860    256 GB -> (NTFS) Windows install
+  - WD HDD WD20EZRX    2   TB -> (ext4) /home disk
+  - WD HDD WD2002FAEX  2   TB -> (NTFS) Shared disk
   
 </details>
 
 :wrench: **Operating systems**:
-  - Fedora Linux (Fedora 36 Workstation; Daily driver)
+  - Fedora Linux (Fedora 37 Workstation; Daily driver)
   - Windows 10 (For compilation & testing)
 
 </details>
