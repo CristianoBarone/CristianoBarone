@@ -36,7 +36,6 @@
 <details><summary>💻 Low-level programming</summary>
 
   - C
-  - C++
   - Rust
   - Assembler x86
   
@@ -54,7 +53,9 @@
 <details><summary>🧩 Object-oriented programming</summary>
 
   - C#
+  - C++
   - Java
+  - Kotlin
   
 </details><details><summary>📜 Scripting</summary>
 
