@@ -2,7 +2,7 @@
 <div align="center">
   <h1 align center>
     <img src="https://github-readme-stats.vercel.app/api?username=CristianoBarone&show_icons=true&theme=vision-friendly-dark&count_private=true&hide_border=true&bg_color=00000000">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoBarone&layout=compact&theme=vision-friendly-dark&count_private=true&langs_count=8&hide_border=true&bg_color=00000000">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoBarone&layout=compact&theme=vision-friendly-dark&count_private=true&langs_count=10&hide_border=true&bg_color=00000000">
   </h1>
 </div>
 
