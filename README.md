@@ -93,7 +93,14 @@
 - 🇬🇧 Cambridge C1 (2022; 189/199)
 - 🇩🇪 Goethe    B1 (Pending)
 
+## Past work experiences
+<details><summary>La Sicilia Multimedia S.P.A. (May 2023)</summary>
+
+  - Application development in Go  
+</details>
+
 ### Computer specs
+Desktop
 <details>
   <summary>Check my specs</summary>
   
@@ -118,6 +125,9 @@
   - Windows 10 (For compilation & testing)
 
 </details>
+
+
+Macbook Pro Retina 15" 2015
 <!--
 **CristianoBarone/CristianoBarone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
