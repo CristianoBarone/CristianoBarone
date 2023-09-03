@@ -91,7 +91,7 @@
 
 ## Certifications
 - 🇬🇧 Cambridge C1 (2022; 189/199)
-- 🇩🇪 Goethe    B1 (Pending)
+- 🇩🇪 Goethe    B1 (2023; 3/4 Modules)
 
 ## Past work experiences
 <details><summary>La Sicilia Multimedia S.P.A. (May 2023)</summary>
